@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Latihan Async Task</string>
+    <string name="status_pre">hhhh</string>
+    <string name="status_post">hihih</string>
 </resources>
